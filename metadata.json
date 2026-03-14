@@ -1,0 +1,5 @@
+{
+  "name": "Extractor de Órdenes AI",
+  "description": "Aplicación web para extraer información de órdenes de compra usando IA, con diseño Material Design 3.",
+  "requestFramePermissions": []
+}
